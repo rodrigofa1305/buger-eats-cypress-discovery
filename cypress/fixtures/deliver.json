@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Rodrigo Santos",
+            "cpf": "00000014214",
+            "email": "rodrigofa1305@gmail.com",
+            "whatsapp": "91981434330",
+            "address": {
+                "postalcode": 66822120,
+                "street": "Rua J",
+                "number": "3",
+                "details": "CJ Castro Moura",
+                "district": "Águas Negras (Icoaraci)",
+                "city_state": "Belém/PA"
+        },
+            "deliver_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Santos",
+            "cpf": "00000014214AA",
+            "email": "rodrigofa@hotmail.com",
+            "whatsapp": "91981431010",
+            "address": {
+                "postalcode": 66822120,
+                "street": "Rua J",
+                "number": "15",
+                "details": "CJ Castro Moura",
+                "district": "Águas Negras (Icoaraci)",
+                "city_state": "Belém/PA"
+        },
+            "deliver_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Rodrigo Com CPF",
+            "cpf": "00000014210",
+            "email": "rodrigofa1305.com",
+            "whatsapp": "91981434330",
+            "address": {
+                "postalcode": 66822120,
+                "street": "Rua J",
+                "number": "3",
+                "details": "CJ Castro Moura",
+                "district": "Águas Negras (Icoaraci)",
+                "city_state": "Belém/PA"
+        },
+            "deliver_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
